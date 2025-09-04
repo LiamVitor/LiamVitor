@@ -38,11 +38,11 @@
     <a>
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lmvkbbk&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LiamVitor&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lmvkbbk&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LiamVitor&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img width="45%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=lmvkbbk&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true" />
