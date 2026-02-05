@@ -1,25 +1,31 @@
-
-
-<div >
+<div alig="center">
   <h1>Olá, eu sou Liam Vitor 👋</h1>
-</div>
 
-<p>
+  <p>
 
-- Estudante de Ciência da Computação e entusiasta do desenvolvimento de software.
-- Defensor de software e conhecimento open source
+  - Estudante de Ciência da Computação e entusiasta do desenvolvimento de software.
+  - Defensor de software e conhecimento open source
   
-</p>
+  </p>
 
-<div >
 
-<h2>Tecnologias que já uso</h2>
+  <h2>Tecnologias que já uso 🖥️</h2>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,js,cs,java,firebase,mysql)](https://skillicons.dev)
 </div>
+
+<details>
+  <summary>Github Stats 🔥</summary>
+
+  <div align="center" style="display: flex; gap: 12px; flex-wrap: wrap;">
+    <img
+      height="165"
+      src="https://github-readme-stats-kappa-three-56.vercel.app/api/top-langs/?username=LiamVitor&layout=compact&hide_border=true&bg_color=FFFFFF00&title_color=E5E7EB&text_color=E5E7EB"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats-kappa-three-56.vercel.app/api?username=LiamVitor&show_icons=true&hide_border=true&bg_color=FFFFFF00&title_color=E5E7EB&icon_color=FF7A00&text_color=E5E7EB&ring_color=FF7A00"
+    />
+  </div>
+
+</details>
