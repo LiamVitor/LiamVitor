@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/LiamVitor/LiamVitor/blob/main/BannerProfile.gif?raw=true" alt="Banner do perfil"/>
+</p>
 <div alig="center">
   <h1>Olá, eu sou Liam Vitor 👋</h1>
 
